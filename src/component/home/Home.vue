@@ -1,9 +1,7 @@
 <template>
   <div>
-    test
-    <router-view></router-view>
+    首页
   </div>
-  
 </template>
 
 <script>

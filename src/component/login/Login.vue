@@ -1,9 +1,7 @@
 <template>
   <div>
-    test
-    <router-view></router-view>
+    登录
   </div>
-  
 </template>
 
 <script>
