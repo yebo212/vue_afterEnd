@@ -1,8 +1,10 @@
-html,body,main{
+html,
+body,
+main {
   height: 100%;
 }
-a{
+a {
   display: block;
   text-decoration: none;
-  color:inherit;
+  color: inherit;
 }
